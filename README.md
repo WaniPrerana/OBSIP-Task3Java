@@ -1,1 +1,1 @@
-This is a project created by mohit patil of ATM Interface during my internship.
+This is a project created by prerana wani of ATM Interface during my internship.
